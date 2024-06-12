@@ -9,3 +9,6 @@ Example notes
 .. warming::
 
     Be careful
+
+
+Finished using python as a calculator
