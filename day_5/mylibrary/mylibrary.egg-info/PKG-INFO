@@ -4,5 +4,3 @@ Version: 0.0.0
 Summary: test library
 Requires-Python: >=3.6
 Requires-Dist: setuptools
-Requires-Dist: pathlib
-Requires-Dist: numpy
